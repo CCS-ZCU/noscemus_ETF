@@ -7,6 +7,7 @@ nltk
 gensim
 networkx
 scikit-learn
+docx-parser
 
 matplotlib
 seaborn
