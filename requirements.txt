@@ -1,0 +1,14 @@
+virtualenv
+jupyter
+ipykernel
+
+pandas
+nltk
+gensim
+networkx
+scikit-learn
+
+matplotlib
+seaborn
+
+sddk
