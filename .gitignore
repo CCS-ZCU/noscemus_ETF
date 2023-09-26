@@ -2,5 +2,4 @@
 /venv/
 #moje changes
 .env
-.gitignore
 .DS_Store
