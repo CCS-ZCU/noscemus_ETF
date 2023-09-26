@@ -1,2 +1,6 @@
 /data/large_files/
 /venv/
+#moje changes
+.env
+.gitignore
+.DS_Store
