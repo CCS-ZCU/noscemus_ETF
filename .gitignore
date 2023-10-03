@@ -1,4 +1,4 @@
-/data/private-data/
+/data/private-data/*
 /venv/
 #honzovo changes
 .env
