@@ -13,3 +13,5 @@ matplotlib
 seaborn
 
 sddk
+
+gspread-dataframe

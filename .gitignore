@@ -3,3 +3,4 @@
 #honzovo changes
 .env
 .DS_Store
+/data/ServiceAccountsKey.json
