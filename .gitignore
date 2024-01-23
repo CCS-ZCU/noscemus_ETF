@@ -1,7 +1,7 @@
 /data/private-data/*
 /venv/
-#honzovo changes
 .env
 .DS_Store
 /data/ServiceAccountsKey.json
 data/large_data/
+latin-bert/
