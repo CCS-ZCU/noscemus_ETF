@@ -3,10 +3,9 @@ jupyter
 ipykernel
 
 pandas
-nltk
 gensim
-networkx
 scikit-learn
+spacy
 docx-parser
 
 matplotlib
